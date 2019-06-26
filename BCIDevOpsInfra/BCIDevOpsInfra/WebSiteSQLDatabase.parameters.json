@@ -2,14 +2,29 @@
   "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
-    "hostingPlanName": {
-      "value": null
+    "sites_bcidevopslabdevweb_name": {
+      "value": "bcidevopslabdevweb"
+    },
+    "servers_bcidevopslabdevsql_name": {
+      "value": "bcidevopslabdevsql"
+    },
+    "serverfarms_bcidevopslabdevwebfarm_name": {
+      "value": "bcidevopslabdevwebapps"
+    },
+    "registries_bcidevopslabdevacr_name": {
+      "value": "bcidevopslabdevacr"
     },
     "administratorLogin": {
-      "value": null
+      "value": "sqladmin"
     },
     "databaseName": {
-      "value": null
+      "value": "bcidevopslabdb"
+    },
+    "administratorLoginPassword": {
+      "value": "M1cr0s0ft"
+    },
+    "skuName": {
+      "value": "S1"
     }
   }
 }
