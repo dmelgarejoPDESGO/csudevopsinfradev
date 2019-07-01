@@ -11,9 +11,11 @@
     "serverfarms_bcidevopslabdevwebfarm_name": {
       "value": "bcidevopslabdevwebapps"
     },
+/*
     "registries_bcidevopslabdevacr_name": {
       "value": "bcidevopslabdevacr"
     },
+*/
     "administratorLogin": {
       "value": "sqladmin"
     },
