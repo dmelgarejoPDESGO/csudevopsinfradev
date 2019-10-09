@@ -3,24 +3,24 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sites_bcidevopslabdevweb_name": {
-      "value": "bcidevopslabdevweb"
+      "value": "devopslabwebdev"
     },
     "servers_bcidevopslabdevsql_name": {
-      "value": "bcidevopslabdevsql"
+      "value": "devopslabsqldev"
     },
     "serverfarms_bcidevopslabdevwebfarm_name": {
-      "value": "bcidevopslabdevwebapps"
+      "value": "devopslabwebappdev"
     },
 /*
     "registries_bcidevopslabdevacr_name": {
-      "value": "bcidevopslabdevacr"
+      "value": "devopslabacrdev"
     },
 */
     "administratorLogin": {
       "value": "sqladmin"
     },
     "databaseName": {
-      "value": "bcidevopslabdb"
+      "value": "devopslabdb"
     },
     "administratorLoginPassword": {
       "value": "M1cr0s0ft"
