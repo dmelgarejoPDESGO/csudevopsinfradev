@@ -3,19 +3,19 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sites_bcidevopslabdevweb_name": {
-      "defaultValue": "bcidevopslabdevweb",
+      "defaultValue": "devopslabwebdev",
       "type": "String"
     },
     "servers_bcidevopslabdevsql_name": {
-      "defaultValue": "bcidevopslabdevsql",
+      "defaultValue": "devopslabsqldev",
       "type": "String"
     },
     "serverfarms_bcidevopslabdevwebfarm_name": {
-      "defaultValue": "bcidevopslabdevwebfarm",
+      "defaultValue": "devopslabwebfarmdev",
       "type": "String"
     },
     "registries_bcidevopslabdevacr_name": {
-      "defaultValue": "bcidevopslabdevacr",
+      "defaultValue": "devopslabacrdev",
       "type": "String"
     },
     "skuName": {
