@@ -3,17 +3,17 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sites_bcidevopslabdevweb_name": {
-      "value": "devopslabwebtst"
+      "value": "devopslabwebprod"
     },
     "servers_bcidevopslabdevsql_name": {
-      "value": "devopslabsqltst"
+      "value": "devopslabsqlprod"
     },
     "serverfarms_bcidevopslabdevwebfarm_name": {
-      "value": "devopslabwebapptst"
+      "value": "devopslabwebappprod"
     },
 /*
     "registries_bcidevopslabdevacr_name": {
-      "value": "devopslabacrtst"
+      "value": "devopslabacrprod"
     },
 */
     "administratorLogin": {
