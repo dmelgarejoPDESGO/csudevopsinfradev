@@ -11,11 +11,9 @@
     "serverfarms_webfarm_name": {
       "value": "**********"
     },
-/*
     "registries_acr_name": {
-      "value": "devopslabacrdev"
+      "value": "**********"
     },
-*/
     "administratorLogin": {
       "value": "**********"
     },
