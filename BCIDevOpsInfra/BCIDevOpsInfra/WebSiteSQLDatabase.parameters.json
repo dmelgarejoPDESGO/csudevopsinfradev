@@ -2,17 +2,17 @@
   "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
   "contentVersion": "1.0.0.0",
   "parameters": {
-    "sites_bcidevopslabdevweb_name": {
+    "sites_web_name": {
       "value": "**********"
     },
-    "servers_bcidevopslabdevsql_name": {
+    "servers_sql_name": {
       "value": "**********"
     },
-    "serverfarms_bcidevopslabdevwebfarm_name": {
+    "serverfarms_webfarm_name": {
       "value": "**********"
     },
 /*
-    "registries_bcidevopslabdevacr_name": {
+    "registries_acr_name": {
       "value": "devopslabacrdev"
     },
 */
