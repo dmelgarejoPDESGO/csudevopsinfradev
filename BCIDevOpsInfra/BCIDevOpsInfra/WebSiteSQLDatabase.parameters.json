@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "sites_bcidevopslabdevweb_name": {
-      "value": "devopslabwebdev"
+      "value": "**********"
     },
     "servers_bcidevopslabdevsql_name": {
-      "value": "devopslabsqldev"
+      "value": "**********"
     },
     "serverfarms_bcidevopslabdevwebfarm_name": {
       "value": "devopslabwebappdev"
@@ -17,13 +17,13 @@
     },
 */
     "administratorLogin": {
-      "value": "sqladmin"
+      "value": "**********"
     },
     "databaseName": {
       "value": "devopslabdb"
     },
     "administratorLoginPassword": {
-      "value": "M1cr0s0ft"
+      "value": "**********"
     },
     "skuName": {
       "value": "S1"
